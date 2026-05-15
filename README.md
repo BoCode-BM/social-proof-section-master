@@ -27,8 +27,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BoCode-BM/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://bocode-bm.github.io/social-proof-section-master/)
+- Solution URL: [See the Code source](https://github.com/BoCode-BM/social-proof-section-master)
+- Live Site URL: [Live Site](https://bocode-bm.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -41,5 +41,5 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Author
 
-- Github - [Add your name here](https://github.com/BoCode-BM)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BoCode-BM)
+- Github - [BoCode-BM](https://github.com/BoCode-BM)
+- Frontend Mentor - [@BoCode-BM](https://www.frontendmentor.io/profile/BoCode-BM)
