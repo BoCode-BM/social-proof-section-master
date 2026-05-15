@@ -17,12 +17,18 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### first-mobile
+
+![](./public/images/Screenshot%202026-05-15%20at%2000-31-10%20Frontend%20Mentor%20Social%20proof%20section.png)
+
+#### Desktop
+
+![](./public/images/Screenshot%202026-05-15%20at%2000-30-17%20Frontend%20Mentor%20Social%20proof%20section.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/BoCode-BM/social-proof-section-master)
+- Live Site URL: [Add live site URL here](https://bocode-bm.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -31,11 +37,9 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Add your name here](https://github.com/BoCode-BM)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BoCode-BM)
